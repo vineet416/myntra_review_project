@@ -1,0 +1,14 @@
+bs4
+chromedriver-binary
+database-connect
+flask-cors
+gunicorn
+ipykernel
+plotly
+pysocks
+python-dotenv
+selenium
+streamlit
+tiktoken
+
+# -e .
